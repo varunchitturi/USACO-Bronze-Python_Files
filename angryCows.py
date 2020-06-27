@@ -1,3 +1,4 @@
+faulty code to test python linter
 #truncate from a point to the end
 def truncateList(list,index):
     truncatedList = []
